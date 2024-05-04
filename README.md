@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @joanaray
+# 👋 Hi, I’m Joana Ray
 <!-- 👀 I’m interested in ... -->
 🌱 I’m currently learning **React**.
 <!-- 💞️ I’m looking to collaborate on ... -->
